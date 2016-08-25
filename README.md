@@ -1,6 +1,6 @@
 # vivadecora.github.io
 
-Blog de Engenharia do Viva Decora
+Blog de Engenharia da equipe do [Viva Decora](https://www.vivadecora.com.br)
 
 ## Rodando o Blog localmente
 
