@@ -121,8 +121,8 @@ var_next_post: Próximo
 var_previous_post: Anterior
 var_less_than_a_minute_read: < 1 min de leitura
 var_min_read: min de leitura # Text after reading time. Example: 5 min read.
-var_post_by: Post por
-var_guest_post_by: Guest post por
+var_post_by: Escrito por
+var_guest_post_by: Escrito por
 var_your_email: Seu email
 var_your_message: Sua mensagem
 
