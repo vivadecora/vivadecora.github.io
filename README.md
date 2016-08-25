@@ -26,3 +26,6 @@ bundle exec jekyll serve
 
 Os posts devem ser escritos seguindo o padrão do Jekyll (https://jekyllrb.com/docs/posts/#creating-post-files) e os exemplos de posts suportados pelo tema podem ser encontrados na pasta `samples` na raiz desse projeto.
 
+**Créditos:**
+
+Tema: https://github.com/steinvc/holo-alfa
