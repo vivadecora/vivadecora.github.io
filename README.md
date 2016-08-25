@@ -1,4 +1,5 @@
 # vivadecora.github.io
+
 Blog de Engenharia do Viva Decora
 
 ## Rodando o Blog localmente
@@ -20,3 +21,8 @@ Para confirmar se está tudo OK, execute o servidor:
 ```
 bundle exec jekyll serve
 ```
+
+## Escrevendo Posts
+
+Os posts devem ser escritos seguindo o padrão do Jekyll (https://jekyllrb.com/docs/posts/#creating-post-files) e os exemplos de posts suportados pelo tema podem ser encontrados na pasta `samples` na raiz desse projeto.
+
