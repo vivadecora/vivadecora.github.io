@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Engenharia Viva Decora</title>
+		<description>{&quot;meta&quot;=&gt;&quot;Blog de tecnologia da equipe de Engenharia do Viva Decora com dicas sobre Desenvolvimento de Software&quot;, &quot;subtitle&quot;=&gt;&quot;Blog de tecnologia da equipe de Engenharia do Viva Decora com dicas sobre Desenvolvimento de Software&quot;}</description>
+		<link>https://vivadecora.github.io</link>
+		<atom:link href="https://vivadecora.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
