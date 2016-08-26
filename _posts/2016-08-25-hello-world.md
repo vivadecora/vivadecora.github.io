@@ -44,7 +44,7 @@ Nós não nos achamos melhores do que outros desenvolvedores que estão comparti
 Não somos os Pikas da Galáxia.
 
 ![Pika das Galáxia]({{ site.baseurl }}/img/pika-das-galaxia.png)
-re
+
 Só queremos compartilhar o que fazemos e como fazemos para tentar transmitir o que aprendemos para você, que for nos acompanhar.
 
 E você também pode nos ensinar muito através dos seus comentários, por isso não perca tempo! Contamos com seu feedback sobre nossas postagens.
