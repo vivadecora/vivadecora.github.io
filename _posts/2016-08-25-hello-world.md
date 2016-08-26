@@ -15,7 +15,7 @@ Somos o Viva Decora, uma empresa que reúne as melhores ideias sobre Design de I
 
 ## Por que ter um Blog sobre tecnologia?
 
-Nós já temos um Blog de conteúdo relacionado a Design e Arquitetura para nossos amados usuários, o <a href="https://revista.vivadecora.com.br" target="_blank">Revista Viva Decora</a> e lá compartilhamos milhares de inspirações para ajudá-los a criar o lar dos seus sonhos.
+Nós já temos um Blog de conteúdo relacionado a Design e Arquitetura para nossos amados usuários, o <a href="https://vivadecora.com.br/revista" target="_blank">Revista Viva Decora</a> e lá compartilhamos milhares de inspirações para ajudá-los a criar o lar dos seus sonhos.
 
 Achamos que seria interessante compartilhar o que está por trás de nossas plataformas como  algumas outras empresas tem feito.
 
