@@ -15,7 +15,7 @@ Somos o Viva Decora, uma empresa que reúne as melhores ideias sobre Design de I
 
 ## Por que ter um Blog sobre tecnologia?
 
-Nós já temos um Blog de conteúdo relacionado a Design e Arquitetura para nossos amados usuários, o <a href="https://vivadecora.com.br/revista" target="_blank">Revista Viva Decora</a> e lá compartilhamos milhares de inspirações para ajudá-los a criar o lar dos seus sonhos.
+Nós já temos um Blog de conteúdo relacionado a Design e Arquitetura para nossos amados usuários, o <a href="https:www.//vivadecora.com.br/revista" target="_blank">Revista Viva Decora</a> e lá compartilhamos milhares de inspirações para ajudá-los a criar o lar dos seus sonhos.
 
 Achamos que seria interessante compartilhar o que está por trás de nossas plataformas como  algumas outras empresas tem feito.
 
@@ -44,7 +44,7 @@ Nós não nos achamos melhores do que outros desenvolvedores que estão comparti
 Não somos os Pikas da Galáxia.
 
 ![Pika das Galáxia]({{ site.baseurl }}/img/pika-das-galaxia.png)
-
+re
 Só queremos compartilhar o que fazemos e como fazemos para tentar transmitir o que aprendemos para você, que for nos acompanhar.
 
 E você também pode nos ensinar muito através dos seus comentários, por isso não perca tempo! Contamos com seu feedback sobre nossas postagens.
