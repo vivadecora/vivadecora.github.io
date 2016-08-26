@@ -11,7 +11,7 @@ summary: Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades
 
 Olá!
 
-Somos o Viva Decora, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura. Você pode conhecer o Viva Decora clicando <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">aqui</a>
+Somos o <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">Viva Decora</a>, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura.
 
 ## Por que ter um Blog sobre tecnologia?
 
@@ -33,7 +33,7 @@ Esse blog foi criado pela equipe de Engenharia do Viva Decora com o objetivo de 
 
 ## O que vamos falar aqui?
 
-Queremos escrever sobre o que fazemos, então aguarde posts sobre <a href="https://www.djangoproject.com/" target="_blank">Python Django</a>, <a href="http://www.django-rest-framework.org/" target="_blank">Django REST</a>,  <a href="http://www.celeryproject.org/" target="_blank">Celery</a>, <a href="https://angularjs.org/" target="_blank">AngularJS</a>, <a href="http://sass-lang.com/" target="_blank">Sass</a>, <a href="http://getbem.com/introduction/" target="_blank">BEMCSS</a>, <a href="https://developer.android.com/index.html" target="_blank">Android</a>, <a href="https://developer.apple.com/ios/" target="_blank">iOS</a> e alguns desafios de organização, Gerenciamento de Projetos, Arquitetura de Software, SEO, etc.
+Queremos escrever sobre o que fazemos, então aguarde posts sobre <a href="https://www.djangoproject.com/" target="_blank">Python Django</a>, <a href="http://www.django-rest-framework.org/" target="_blank">Django REST</a>,  <a href="http://www.celeryproject.org/" target="_blank">Celery</a>, <a href="https://angularjs.org/" target="_blank">AngularJS</a>, <a href="http://sass-lang.com/" target="_blank">Sass</a>, <a href="http://getbem.com/introduction/" target="_blank">BEMCSS</a>, <a href="https://developer.android.com/index.html" target="_blank">Android</a>, <a href="https://developer.apple.com/ios/" target="_blank">iOS</a> e alguns desafios de organização, Gerenciamento de Projetos, Arquitetura de Software, SEO, Google Analytics, Google Tag Manager, Search Console, etc.
 
 Talvez algo bem humorado também, pois adoramos dar boas risadas!
 

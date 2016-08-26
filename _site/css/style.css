@@ -114,6 +114,9 @@ h3, h4, h5, h6 {
   margin-top: 40px;
   margin-bottom: 30px;
 }
+.post-title {
+  margin-bottom: 10px
+}
 .meta {
   color: rgba(0, 0, 0, 0.5);
   display: block;
@@ -418,14 +421,14 @@ nav a.current {
   pre,
   p,
   form {
-    margin: 40px 0;
+    margin: 25px 0;
   }
   ol, ul {
     padding-left: 50px;
   }
   li {
     padding-left: 10px;
-    margin: 30px 0;
+    margin: 15px 0;
   }
   table {
     margin: 40px auto;
@@ -435,13 +438,13 @@ nav a.current {
     margin: 70px;
   }
   h1 {
-    font-size: 2.6em;
+    font-size: 2.1em;
     margin-bottom: -10px;
   }
   h2 {
     font-size: 1.8em;
-    margin-top: 60px;
-    margin-bottom: -10px;
+    margin-top: 0;
+    margin-bottom: 0;
   }
   h3, h4, h5, h6 {
     font-size: 1.2em;
@@ -465,6 +468,7 @@ nav a.current {
 @media all and (min-width: 520px) {
   .website-title {
     text-align: left;
+    display: inline-block
   }
   nav {
     position: absolute;
@@ -475,9 +479,6 @@ nav a.current {
   nav a {
     display: inline-block;
     padding: 5px 8px;
-  }
-  .website-title {
-    margin-bottom: 80px;
   }
 }
 @media all and (min-width: 760px) {

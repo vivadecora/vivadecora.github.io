@@ -15,6 +15,7 @@ home: true
 {% endif %}
 
   <article>
+  	<a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title">{{ post.title }}</h2></a>
     <span class="meta">
       {% if site.display-author-front-page %}
         {% if post.author.name %}
@@ -26,7 +27,6 @@ home: true
         {% endif %}
       {% endif %}
       {{ post.date | date: site.date_format }} • {{ read-time }}</span>
-  	<a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
       <p>
       {% if post.summary %}
         {{ post.summary }}&nbsp;<a class="read-more" href="{{ post.url | prepend: site.baseurl }}">{{ site.var_read }}  →</a>

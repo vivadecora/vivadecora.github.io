@@ -56,17 +56,9 @@ Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades
 
 
 <style>
-header {
-  margin-bottom: 40px;
-}
-@media all and (min-width: 500px) {
-  header {
-    margin-bottom: 100px;
+  header::after {
+    display: none;
   }
-}
-header::after {
-  display: none;
-}
 </style>
 
 
@@ -76,15 +68,13 @@ header::after {
 	<div class="wrap">
 		<header>
   <a href="/" class="website-title">
-    
-      Engenharia Viva Decora
-    
-
+    <!-- <img alt="Engenharia Viva Decora" src=""> -->
+    <h1 class="website-title">Engenharia Viva Decora</h1>
   </a>
   <nav>
-  <!-- <a href="/about/">Sobre</a> -->
-  <a href="/contact/">Contato</a>
-  <a href="/archive/">Arquivo</a>
+  <a href="/.html">Sobre</a>
+  <a href="/contact.html">Contato</a>
+  <a href="/archive.html">Arquivo</a>
 </nav>
 
   
@@ -96,11 +86,11 @@ header::after {
 
 
 <article>
+	<h1 class="post-title">Hello World</h1>
   <span class="meta">Aug 25, 2016 • 2&nbsp;min de leitura</span>
-	<h1>Hello World</h1>
 		<p>Olá!</p>
 
-<p>Somos o Viva Decora, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura. Você pode conhecer o Viva Decora clicando <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">aqui</a></p>
+<p>Somos o <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">Viva Decora</a>, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura.</p>
 
 <h2 id="por-que-ter-um-blog-sobre-tecnologia">Por que ter um Blog sobre tecnologia?</h2>
 
@@ -124,7 +114,7 @@ header::after {
 
 <h2 id="o-que-vamos-falar-aqui">O que vamos falar aqui?</h2>
 
-<p>Queremos escrever sobre o que fazemos, então aguarde posts sobre <a href="https://www.djangoproject.com/" target="_blank">Python Django</a>, <a href="http://www.django-rest-framework.org/" target="_blank">Django REST</a>,  <a href="http://www.celeryproject.org/" target="_blank">Celery</a>, <a href="https://angularjs.org/" target="_blank">AngularJS</a>, <a href="http://sass-lang.com/" target="_blank">Sass</a>, <a href="http://getbem.com/introduction/" target="_blank">BEMCSS</a>, <a href="https://developer.android.com/index.html" target="_blank">Android</a>, <a href="https://developer.apple.com/ios/" target="_blank">iOS</a> e alguns desafios de organização, Gerenciamento de Projetos, Arquitetura de Software, SEO, etc.</p>
+<p>Queremos escrever sobre o que fazemos, então aguarde posts sobre <a href="https://www.djangoproject.com/" target="_blank">Python Django</a>, <a href="http://www.django-rest-framework.org/" target="_blank">Django REST</a>,  <a href="http://www.celeryproject.org/" target="_blank">Celery</a>, <a href="https://angularjs.org/" target="_blank">AngularJS</a>, <a href="http://sass-lang.com/" target="_blank">Sass</a>, <a href="http://getbem.com/introduction/" target="_blank">BEMCSS</a>, <a href="https://developer.android.com/index.html" target="_blank">Android</a>, <a href="https://developer.apple.com/ios/" target="_blank">iOS</a> e alguns desafios de organização, Gerenciamento de Projetos, Arquitetura de Software, SEO, Google Analytics, Google Tag Manager, Search Console, etc.</p>
 
 <p>Talvez algo bem humorado também, pois adoramos dar boas risadas!</p>
 

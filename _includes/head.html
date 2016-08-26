@@ -63,16 +63,8 @@
 
 {% if page.home != true or site.show-subtitle == false and site.display-social-icons == false %}
 <style>
-header {
-  margin-bottom: 40px;
-}
-@media all and (min-width: 500px) {
-  header {
-    margin-bottom: 100px;
+  header::after {
+    display: none;
   }
-}
-header::after {
-  display: none;
-}
 </style>
 {% endif %}

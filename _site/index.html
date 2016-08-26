@@ -56,17 +56,9 @@ Blog de tecnologia da equipe de Engenharia do Viva Decora com dicas sobre Desenv
 
 
 <style>
-header {
-  margin-bottom: 40px;
-}
-@media all and (min-width: 500px) {
-  header {
-    margin-bottom: 100px;
+  header::after {
+    display: none;
   }
-}
-header::after {
-  display: none;
-}
 </style>
 
 
@@ -76,15 +68,13 @@ header::after {
 	<div class="wrap">
 		<header>
   <a href="/" class="website-title">
-    
-      Engenharia Viva Decora
-    
-
+    <!-- <img alt="Engenharia Viva Decora" src=""> -->
+    <h1 class="website-title">Engenharia Viva Decora</h1>
   </a>
   <nav>
-  <!-- <a href="/about/">Sobre</a> -->
-  <a href="/contact/">Contato</a>
-  <a href="/archive/">Arquivo</a>
+  <a href="/.html">Sobre</a>
+  <a href="/contact.html">Contato</a>
+  <a href="/archive.html">Arquivo</a>
 </nav>
 
   
@@ -98,6 +88,7 @@ header::after {
 
 
   <article>
+  	<a href="/hello-world.html"><h2 class="post-title">Hello World</h2></a>
     <span class="meta">
       
         
@@ -105,7 +96,6 @@ header::after {
         
       
       Aug 25, 2016 • 2&nbsp;min de leitura</span>
-  	<a href="/hello-world.html"><h1>Hello World</h1></a>
       <p>
       
         Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades&nbsp;<a class="read-more" href="/hello-world.html">Continuar a leitura...  →</a>
