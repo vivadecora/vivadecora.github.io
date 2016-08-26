@@ -47,7 +47,7 @@ Não somos os Pikas da Galáxia.
 
 Só queremos compartilhar o que fazemos e como fazemos para tentar transmitir o que aprendemos para você, que for nos acompanhar.
 
-E você também pode nos ensinar muito através dos seus comentários, por isso não perca tempo em nos passar feedbacks sobre nossas postagens.
+E você também pode nos ensinar muito através dos seus comentários, por isso não perca tempo! Contamos com seu feedback sobre nossas postagens.
 
 Achamos importante o que as Comunidades de Desenvolvimento fazem para disseminar conhecimento e queremos participar disso.
 
