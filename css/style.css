@@ -394,6 +394,10 @@ nav a.current {
 
 /* Structure overwrites */
 
+body {
+  border-top: 2px solid #cd3128;
+}
+
 @media all and (min-width: 370px) {
   .website-title {
     font-size: 32px;
@@ -430,7 +434,7 @@ nav a.current {
   }
   article::after,
   header::after {
-    margin: 70px;
+    margin: 30px;
   }
   h1 {
     font-size: 2.1em;
