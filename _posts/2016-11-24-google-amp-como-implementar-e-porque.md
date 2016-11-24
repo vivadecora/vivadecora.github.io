@@ -19,6 +19,7 @@ Os resultados de busca AMP já aparecem em cards destacados na primeira página 
 
 ![AMP One Year in review](https://amphtml.files.wordpress.com/2016/10/1-wholeinfographic.png?w=768)
 
+
 ## AMP não é a mesma coisa que página mobile
 
 Ok, já tem um tempo que o Google utiliza performance de carregamento e sites responsivos como fator de rankeamento. No entanto quando falamos de AMP não estamos falando de site responsivo ou versão mobile. É importante que isso fique claro.
@@ -31,11 +32,12 @@ Não, já temos fontes que relatam que o [BING também exibe AMP em seus resulta
 ## Por que implementar Google AMP?
 
 AMP tem benefícios potenciais de:
-* Melhorar o posicionamento nos resultados do Google;
-* Trazer mais acessos para o seu site;
-* Melhorar a indexação de imagens; 
-* Ter uma versão do seu conteúdo com carregamento mais rápido;
-* Futuramente o AMP pode se tornar fator de rankeamento.
+
+*Melhorar o posicionamento nos resultados do Google;
+*Trazer mais acessos para o seu site;
+*Melhorar a indexação de imagens; 
+*Ter uma versão do seu conteúdo com carregamento mais rápido;
+*Futuramente o AMP pode se tornar fator de rankeamento.
 
 Como sabemos disso? Calma, vamos falar mais detalhamente desses pontos em outro Post! Vamos a implementação...
 
