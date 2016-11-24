@@ -1,5 +1,5 @@
 ---
-title: Google AMP: O que é, por que e como implementar no seu site?
+title: Google AMP - O que é, por que e como implementar no seu site?
 
 author:
   name: Jota Teles, Fabíola Faria
