@@ -1,11 +1,8 @@
 ---
 title: Google AMP - O que é, por que e como implementar no seu site?
-
 name: Jota Teles, Fabíola Faria
-  info: (@<a href="http://www.jotateles.com.br">Jota Teles</a>),(@<a href="https://www.linkedin.com/in/fabiolafaria">Fabí Faria</a>)
-
+info: (@<a href="http://www.jotateles.com.br">Jota Teles</a>),(@<a href="https://www.linkedin.com/in/fabiolafaria">Fabí Faria</a>)
 summary: O que é Accelerated Mobile Pages, porquê e como você pode implementá-lo no seu site ou portal.
-
 ---
 
 ## O que é AMP?
