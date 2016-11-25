@@ -68,6 +68,7 @@ ul,
 ol {
   margin: 30px auto;
   padding-left: 30px;
+  word-break: break-word;
 }
 ul {
   list-style: disc;
