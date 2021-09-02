@@ -133,6 +133,9 @@ export default {
   // Alias Configuration
   alias: {
     decore: resolve(__dirname, './decore')
+  },
+  //https://content.nuxtjs.org/configuration
+  content: {
   }
   // Enable lint check on save (NOT LINT FIX). Uncomment to use the feature.
   // typescript: {
