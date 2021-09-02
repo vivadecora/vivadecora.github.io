@@ -10,7 +10,9 @@
         Olá mundo
       </h1>
       <div v-for="(article, index) in articles" :key="index">
-        {{article.title}}
+        <nuxt-link :to="`/${article.slug}`">
+          {{article.title}}
+        </nuxt-link>
       </div>
     </template>
   </Page>

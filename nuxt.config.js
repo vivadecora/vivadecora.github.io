@@ -128,7 +128,6 @@ export default {
   },
   // https://nuxtjs.org/docs/2.x/features/file-system-routing
   router: {
-    trailingSlash: true
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
