@@ -118,6 +118,8 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    // https://content.nuxtjs.org/
+    '@nuxt/content'
   ],
   googleAnalytics: {
     id: 'UA-84590614-1',

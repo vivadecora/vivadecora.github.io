@@ -1,6 +1,6 @@
 ---
 title: Hello World
-
+published: false
 author:
   name: William Oliveira
   info: (@<a href="https://twitter.com/w_oliveiras">William Oliveira</a>, <a href="https://woliveiras.com.br">site</a>)

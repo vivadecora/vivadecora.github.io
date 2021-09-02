@@ -9,6 +9,9 @@
       <h1>
         Olá mundo
       </h1>
+      <div v-for="(article, index) in articles" :key="index">
+        {{article.title}}
+      </div>
     </template>
   </Page>
 </template>
@@ -21,8 +24,11 @@ export default Vue.extend({
   components: {
     Pagination
   },
-  async asyncData () {
+  async asyncData (context: any) {
+    const articles = await context.$content('articles').where({ published: true }).fetch()
+
     return {
+      articles
     }
   }
 })
