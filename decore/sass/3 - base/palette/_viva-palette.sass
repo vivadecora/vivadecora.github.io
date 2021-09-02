@@ -1,0 +1,18 @@
+@function get-from-palette($color-name, $color-variant: "primary")
+
+  $red:           ("light": #ff8a83,  "primary": #ff5656, "dark": #c5182d)
+  $yellow:        (                   "primary": #f5a623                 )
+  $green:         (                   "primary": #5ab849, "dark": #45b047)
+  $x-light-gray:  ("light": #eee,     "primary": #ebebeb, "dark": #d2d2d2)
+  $light-gray:    ("light": #fff,     "primary": #d8d8d8, "dark": #a7a7a7)
+  $gray:          ("light": #b7b7b7,  "primary": #868686, "dark": #5a5a5a)
+  $dark-gray:     ("light": #6f6f6f,  "primary": #444,    "dark": #1d1d1d)
+
+  $viva-palette: ("red": $red, "yellow" : $yellow, "green" : $green, "x-light-gray": $x-light-gray, "light-gray": $light-gray, "gray": $gray, "dark-gray": $dark-gray)
+
+  $color: map-get(map-get($viva-palette, $color-name), $color-variant)
+
+  @if $color
+    @return $color
+  @else
+    @warn "=> ERROR: COLOR NOT FOUND! <= | Your $color-name, $color-variant combination did not match any of the values in the $nes-palette map."
