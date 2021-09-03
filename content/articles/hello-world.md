@@ -1,17 +1,12 @@
 ---
 title: Hello World
-published: false
-author:
-  name: William Oliveira
-  info: (@<a href="https://twitter.com/w_oliveiras">William Oliveira</a>, <a href="https://woliveiras.com.br">site</a>)
-
-summary: Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades
-
+published: true
+authors: [woliveiras]
+description: Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades
 ---
 
-Olá!
-
-Somos o <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">Viva Decora</a>, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura.
+Olá! Somos a <a href="https://www.vivadecora.com.br/sobre-nos" title="Sobre o Viva Decora" target="_blank">Viva Decora</a>, uma empresa que reúne as melhores ideias sobre Design de Interiores e Arquitetura.
+<!--more-->
 
 ## Por que ter um Blog sobre tecnologia?
 

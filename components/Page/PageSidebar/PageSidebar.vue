@@ -6,9 +6,7 @@
     itemtype="http://schema.org/WPSideBar"
   >
     <section class="page__sidebar__widget">
-      <h3 class="page__sidebar__title">
-        Sidebar Widget
-      </h3>
+      <github-card></github-card>
     </section>
     <section
       v-if="posts.length > 0"
@@ -21,8 +19,12 @@
 
 <script type="ts">
 import Vue from 'vue'
+import GithubCard from '~/components/GithubCard/GithubCard.vue'
 
 export default Vue.extend({
+  components: {
+    GithubCard
+  },
   props: {
     posts: {
       type: Array,

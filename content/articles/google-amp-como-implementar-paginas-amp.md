@@ -1,14 +1,15 @@
 ---
 title: Google AMP - O que é, por que e como implementar no seu site?
-name: Jota Teles, Fabíola Faria
-info: (@<a href="http://www.jotateles.com.br">Jota Teles</a>),(@<a href="https://www.linkedin.com/in/fabiolafaria">Fabí Faria</a>)
-summary: O que é Accelerated Mobile Pages, porquê e como você pode implementá-lo no seu site ou portal.
+authors: [teles, fabiola]
+description: O que é Accelerated Mobile Pages, porquê e como você pode implementá-lo no seu site ou portal.
 published: true
 ---
 
-## O que é AMP?
-
 AMP é uma sigla que significa Accelerated Mobile Pages e é uma especificação de estrutura html criada pelo Google. Através do Projeto AMP o Google pretende fornecer resultados de buscas otimizados para dispositivos móveis, mas quando dizemos resultados otimizados entendemos sobretudo páginas com carregamento mais rápido, oferecendo assim uma melhor experiência aos usuários.
+
+<!--more-->
+
+## O que é AMP?
 
 Os resultados de busca AMP já aparecem em cards destacados na primeira página para algumas buscas em celulares, principalmente para notícias.
 

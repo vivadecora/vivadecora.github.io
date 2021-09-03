@@ -2,7 +2,7 @@
   <nav class="page__nav">
     <ul :class="isOpenOnMobile === false ? 'page__nav__list--is-hidden-on-mobile' : 'page__nav__list' ">
       <li v-for="(category, index) in categories" :key="index" class="page__nav__list__item">
-        <NuxtLink v-slot="{ navigate, href }" :to="`/${category.slug}/`" class="page__nav__list__anchor" custom>
+        <NuxtLink v-slot="{ navigate, href }" :to="category.href" class="page__nav__list__anchor" custom>
           <a :href="href" @click="navigate">{{ category.name }}</a>
         </NuxtLink>
       </li>
@@ -79,7 +79,6 @@ export default Vue.extend({
         position: relative;
         background-color: $color-background__white;
         overflow: initial;
-        justify-content: center;
       }
 
       @include modifier('is-hidden-on-mobile') {
@@ -98,6 +97,7 @@ export default Vue.extend({
         text-transform: uppercase;
         padding: 0;
         border-bottom: 1px solid $color-border__tertiary--light;
+        font-weight: 600;
 
         @media (min-width: $screen-tablet-min) {
           margin-right: spacing(2);

@@ -37,7 +37,13 @@ export default Vue.extend({
     return {
       headline: 'Time de engenharia da Viva Decora',
       isPageNavOpenOnMobile: false,
-      categories: []
+      categories: [{
+        name: 'Artigos',
+        href: '/'
+      }, {
+        name: 'Dicas',
+        href: '/dicas'
+      }]
     }
   },
   methods: {

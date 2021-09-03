@@ -32,26 +32,39 @@ export default Vue.extend({
 </script>
 
 <style lang="scss">
-  * {
-    font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
-      Roboto, 'Helvetica Neue', Arial, sans-serif;
-    letter-spacing: -0.23px;
-    word-spacing: 1px;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
-    box-sizing: border-box;
-  }
+@import '~decore/sass/3 - base/colors/colors-typography.sass';
 
-  *,
-  ::after,
-  ::before {
-    box-sizing: border-box;
-    margin: 0;
-  }
+* {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: -0.23px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
 
-  body img {
-    max-width: 100%;
-  }
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: $color-typography__secundary;
+  transition: opacity .2s ease-in-out;
+}
+
+a:hover {
+  opacity: .7;
+}
+
 </style>
