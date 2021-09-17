@@ -1,31 +1,20 @@
-# vivadecora.github.io
+# Viva Decora - Blog de engenharia 
 
-Blog de Engenharia da equipe do [Viva Decora](https://www.vivadecora.com.br)
+## Build Setup
 
-## Rodando o Blog localmente
+```bash
+# install dependencies
+$ yarn install
 
-1. Instalação do Jekyll
+# serve with hot reload at localhost:3000
+$ yarn dev
 
-Siga o passo a passo no site: https://jekyllrb.com/docs/installation/
+# build for production and launch server
+$ yarn build
+$ yarn start
 
-2. Instalando as dependências do tema
-
-Na raiz desse repositório, xecute o comando: 
-
-```
-bundle install
-```
-
-Para confirmar se está tudo OK, execute o servidor:
-
-```
-bundle exec jekyll serve
+# generate static project
+$ yarn generate
 ```
 
-## Escrevendo Posts
-
-Os posts devem ser escritos seguindo o padrão do Jekyll (https://jekyllrb.com/docs/posts/#creating-post-files) e os exemplos de posts suportados pelo tema podem ser encontrados na pasta `samples` na raiz desse projeto.
-
-**Créditos:**
-
-Tema: https://github.com/steinvc/holo-alfa
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
