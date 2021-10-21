@@ -1,6 +1,7 @@
 ---
 title: Como criar testes unitários em JavaScript sem precisar instalar nada
 authors: [teles]
+coauthors: [guilherme, rafa]
 description: Introdução aos testes unitários em JavaScript com exemplos práticos sem necessidade de configurações ou instalações
 published: true
 ---
@@ -250,10 +251,10 @@ Com isso finalizamos com algumas questões e melhorias para quem quiser se aprof
 
 * Como alterar nosso teste unitário e nosso código para atender a essa alteração na especificação? Fica como exercício
 * Todo número par maior que 2 não é primo, ainda assim nosso laço de repetição testa esses números. Dá para melhorar?
-* O maior número pelo qual um número é divisível é sua raiz quadrada. Testando somente até a raiz quadrada poderíamos ter um código mais rápido.
+* O maior número pelo qual um número é divisível para garantir que ele não é primo é a sua raiz quadrada. Podemos evitar testes números maiores que a raiz quadrada?
 * O código da nossa função poderia ser mais legível? Como fazer isso sem quebrar testes ?
 
-É isso !
+É isso!
 O que achou dos testes unitários em JavaScript? Já tem prática com isso?
 O que pretende testar agora?
 
