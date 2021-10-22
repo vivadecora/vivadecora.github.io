@@ -37,9 +37,11 @@ jobs:
           yarn generate
 
       - name: Deploy
-        run: |
-          yarn deploy
-
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          publish_dir: ./dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
 
