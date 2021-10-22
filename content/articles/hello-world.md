@@ -1,5 +1,5 @@
 ---
-title: Hello World!
+title: Hello World
 published: true
 authors: [woliveiras]
 description: Uma introdução ao nosso Blog. Quem escreve, motivação e comunidades
